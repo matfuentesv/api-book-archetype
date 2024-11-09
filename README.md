@@ -1,1 +1,1 @@
-# api-book-archetype
+# spring-boot-crud-archetype
